@@ -1,1 +1,1 @@
-# DFIR_beginner follow by sercủity blue team
+# DFIR_beginner follow by sercurity blue team
